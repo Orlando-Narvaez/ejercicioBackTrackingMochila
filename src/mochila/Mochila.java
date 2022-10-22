@@ -52,7 +52,6 @@ public class Mochila
  
     /**
      * Añade un elemento a la mochila
-     * @param e 
      */
     public void aniadirElemento(Elemento e) 
     {
